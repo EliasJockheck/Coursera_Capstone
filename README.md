@@ -1,0 +1,1 @@
+Hey Guys, you can find the information about my Project directly in my jupyter notebook. There i give a brief introduction/Business Understanding. In the second step you can find a description of the data with some examples of how it can be used.
